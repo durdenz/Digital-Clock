@@ -13,6 +13,7 @@ body {
     margin: auto;
     width: 50%;
     border: 3px solid rgb(174, 174, 221);
+    border-radius: 30%;
     background-color: rgb(60, 55, 48);
     padding: 10px;
     text-align: center;
